@@ -16,6 +16,7 @@ def all_obras():
 
 @app.route("/api/v1/arquitetos/idobra/<int:idobra>", methods = ["GET",])
 def retorna_id_obra(idobra):
+   pass
        
        
     
